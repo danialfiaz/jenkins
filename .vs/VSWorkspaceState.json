@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\FirstApplication",
-    "\\FirstApplication\\Pages"
+    "\\FirstApplication\\Pages",
+    "\\FirstApplication\\Properties\\PublishProfiles"
   ],
   "SelectedNode": "\\FirstApplication.sln",
   "PreviewInSolutionExplorer": false
